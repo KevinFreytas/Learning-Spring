@@ -1,4 +1,5 @@
 Review
+
 Well done! You’ve successfully used the Spring framework to handle HTTP requests (GET, POST, PUT, and DELETE), streamlining data transfer between the client application and a web server.
 
 In this lesson, we covered two different ways to make GET requests, an HTTP method that retrieves data from the server and sends it back to the application.
